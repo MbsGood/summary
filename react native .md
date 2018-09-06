@@ -40,9 +40,6 @@ SectionList 多级列表下拉刷新 ：https://github.com/bolan9999/react-nativ
 自定义字体：https://bbs.reactnative.cn/topic/204/%E8%AE%BE%E7%BD%AEreact-native%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93/3</br>
 
 
-
-
-
 ## 一些比较的好的js工具类，可以直接引用来封装</br>
 
 ### 去除字符串空格
